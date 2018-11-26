@@ -1,5 +1,5 @@
 <?php
-$string= 'HELLO';
+$string= 'HEELLLOLAA';
 echo "{$string}<hr>";
 
 // Get first character
