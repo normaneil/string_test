@@ -12,7 +12,7 @@ $letters= [];
 // This will enable the script to read all characters given
 $string= $string."/"; 
 $counter= 0;
-while(strlen($string) >= 1) {
+while(strlen($string) > 0) {
   // Get the first occurance of the character
   $compare= substr($string, 0, 1); 
 
